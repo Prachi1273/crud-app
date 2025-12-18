@@ -10,7 +10,7 @@
 
 A comprehensive Product Management System built with PHP, MySQL, and modern web technologies. This application demonstrates full CRUD (Create, Read, Update, Delete) operations with an elegant user interface and real-time data visualization.
 
-## ✨ Key Features
+##  Key Features
 
 ### Core Functionality
 -  **Complete CRUD Operations** - Full product lifecycle management
@@ -35,8 +35,7 @@ A comprehensive Product Management System built with PHP, MySQL, and modern web 
 -  **Keyboard Shortcuts** - Ctrl/Cmd + N to add new product
 
 
-
-## 🛠️ Technology Stack
+##  Technology Stack
 
 | Technology | Purpose |
 |------------|---------|
