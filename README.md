@@ -329,7 +329,6 @@ This project is created as a coding challenge submission for **DigitalEdu**.
 ##  Author
 
 **Coding Challenge Submission**
-- **Company**: DigitalEdu
 - **Challenge**: PHP CRUD Application with Data Visualization
 - **Date**: December 2025
 
@@ -348,7 +347,6 @@ For any questions or issues regarding this submission:
 
 - **Bootstrap Team** - For the excellent UI framework
 - **Chart.js** - For the powerful visualization library
-- **DigitalEdu** - For the opportunity to participate in this challenge
 
 
 <div align="center">
